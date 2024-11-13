@@ -36,6 +36,7 @@ https://historia.co.jp/archives/275/
 | GridColorNarrow  | 一番細かいグリッドの色設定。一番下に描かれる |
 | GridColorWide    | 基準となるグリッドの色設定。一番上に描かれる |
 | **Grid Properties** |  |
+| GridLocal | アクターのローカル座標系でグリッド表示 |
 | LineIntervalMiddle  | グリッドの間隔(中) ※単位はメートル|
 | LineIntervalNarrow  | グリッドの間隔(細) ※単位はメートル|
 | LineIntervalWide  | グリッドの間隔(広)   ※単位はメートル|
