@@ -16,7 +16,8 @@ https://historia.co.jp/archives/275/
 の方法を参考にCustomGridフォルダ以下をお好きなプロジェクトに移動させてください
 
 * デフォルトのグリッドからカスタムしたい場合は、CustomGrid/Materials/MT_CustomGrid からマテリアルインスタンスを作成しパラメータを変更してください
-![image](https://github.com/user-attachments/assets/25f68855-bedf-4816-8dc0-c4d01ff7d96b)
+![image](https://github.com/user-attachments/assets/e8d1f8cf-639f-46ca-8568-3d4e6a21994e)
+
 
 
 * あとはお好きなモデルにマテリアルを割り当てるとグリッドが表示されます
