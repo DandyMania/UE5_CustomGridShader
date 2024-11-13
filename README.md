@@ -6,6 +6,7 @@ UE5向けグリッドシェーダー
 # 概要
 パラメータによる多彩な設定が可能なグリッドシェーダー  
 ３種類のグリッドラインの線の色・太さ・間隔、背景カラーが設定可能  
+![image](https://github.com/user-attachments/assets/820ba998-fe3f-4b73-9529-2ced8e6a5f55)
 
 # 使い方
 
@@ -15,7 +16,8 @@ https://historia.co.jp/archives/275/
 の方法を参考にCustomGridフォルダ以下をお好きなプロジェクトに移動させてください
 
 * デフォルトのグリッドからカスタムしたい場合は、CustomGrid/Materials/MT_CustomGrid からマテリアルインスタンスを作成しパラメータを変更してください
-<img width="741" alt="materialinstance" src="https://user-images.githubusercontent.com/2414102/77820265-5f4f1100-7124-11ea-8c5c-0ff1008f88d9.png">
+![image](https://github.com/user-attachments/assets/25f68855-bedf-4816-8dc0-c4d01ff7d96b)
+
 
 * あとはお好きなモデルにマテリアルを割り当てるとグリッドが表示されます
 
