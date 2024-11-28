@@ -45,13 +45,13 @@ https://historia.co.jp/archives/275/
 | Roughness  | 1.0に近づくほどざらざらになります |
 | **Texture** |  |
 | Checker  | チェッカー表示用テクスチャ |
-| Checker  | チェッカーのカラー |
+| Checker Color  | チェッカーのカラー |
 | Checker Tiling  | チェッカータイリング間隔 |
-| Cross  | クロステクスチャー |
+| Cross  | クロスマーク用テクスチャー |
 | Cross Color  | クロステクスチャーの色 |
 | Cross Tiling  | クロステクスチャーのタイリング間隔 |
 | Cross Visible  | クロステクスチャー表示設定 |
-| Text  | テキスト表示設定 |
+| Text  | テキスト用テクスチャ |
 | Text Color  | テキストの色 |
 | Text Tiling  | テキストのタイリング間隔 |
 | Text Visible  | テキストの表示設定 |
